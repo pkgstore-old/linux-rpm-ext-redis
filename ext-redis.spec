@@ -47,32 +47,32 @@ META-package for install and configure Redis.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Tue Nov 12 2019 Package Store <pkgstore@pm.me> - 1.0.1-100
+* Tue Nov 12 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-100
 - UPD: Directory names.
 
-* Sun Jul 28 2019 Package Store <pkgstore@pm.me> - 1.0.0-108
+* Sun Jul 28 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-108
 - UPD: SPEC-file.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.0-107
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-107
 - UPD: SPEC-file.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-106
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-106
 - UPD: SPEC-file.
 
-* Fri Apr 19 2019 Package Store <pkgstore@pm.me> - 1.0.0-105
+* Fri Apr 19 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-105
 - UPD: Directory structure.
 
-* Sun Apr 14 2019 Package Store <pkgstore@pm.me> - 1.0.0-104
+* Sun Apr 14 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-104
 - UPD: Directory structure.
 
-* Sat Apr 13 2019 Package Store <pkgstore@pm.me> - 1.0.0-103
+* Sat Apr 13 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-103
 - NEW: 1.0.0-103.
 
-* Wed Apr 10 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Wed Apr 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - NEW: 1.0.0-102.
 
-* Sat Mar 30 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Sat Mar 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - NEW: 1.0.0-101.
 
-* Wed Feb 13 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Wed Feb 13 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
