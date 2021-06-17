@@ -16,7 +16,7 @@ License:                        MIT
 
 Source10:                       %{app}.local.conf
 
-Requires:                       redis
+Requires:                       redis ext-system
 
 %description
 META-package for install and configure Redis.
