@@ -13,6 +13,8 @@ Version:                        1.0.2
 Release:                        %{release_prefix}%{?dist}
 Summary:                        META-package for install and configure Redis
 License:                        MIT
+Vendor:                         Package Store <https://pkgstore.github.io>
+Packager:                       Kitsune Solar <kitsune.solar@gmail.com>
 
 Source10:                       %{app}.local.conf
 
