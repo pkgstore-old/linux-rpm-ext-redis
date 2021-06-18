@@ -6,7 +6,7 @@
 %global d_storage               %{d_home}/storage.01
 %global d_data                  %{d_storage}/data.02
 
-%global release_prefix          100
+%global release_prefix          101
 
 Name:                           ext-redis
 Version:                        1.0.2
@@ -45,6 +45,9 @@ META-package for install and configure Redis.
 
 
 %changelog
+* Fri Jun 18 2021 Package Store <kitsune.solar@gmail.com> - 1.0.2-101
+- UPD: New build for latest changes.
+
 * Thu Jun 17 2021 Package Store <kitsune.solar@gmail.com> - 1.0.2-100
 - UPD: Move to GitHub.
 - UPD: License.
